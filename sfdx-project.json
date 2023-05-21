@@ -22,6 +22,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "./service",
+            "package": "Service",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "Global Template",
@@ -29,6 +36,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "57.0",
     "packageAliases": {
-        "Sales": "0Ho8d000000Kz4qCAC"
+        "Sales": "0Ho8d000000Kz4qCAC",
+        "Service": "0Ho8d000000Kz4vCAC"
     }
 }
