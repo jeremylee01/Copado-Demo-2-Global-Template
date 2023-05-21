@@ -1,24 +1,34 @@
 {
-  "packageDirectories": [
-    {
-      "path": "sales",
-      "default": false
-    },
-    {
-      "path": "service",
-      "default": false
-    },
-    {
-      "path": "marketing",
-      "default": false
-    },
-    {
-      "path": "global-template",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "sales",
+            "default": false
+        },
+        {
+            "path": "service",
+            "default": false
+        },
+        {
+            "path": "marketing",
+            "default": false
+        },
+        {
+            "path": "global-template",
+            "default": true
+        },
+        {
+            "path": "./sales",
+            "package": "Sales",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "name": "Global Template",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "57.0",
+    "packageAliases": {
+        "Sales": "0Ho8d000000Kz4qCAC"
     }
-  ],
-  "name": "Global Template",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "57.0"
 }
