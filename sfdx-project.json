@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "global-template",
+      "default": true
+    }
+  ],
+  "name": "Global Template",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0"
+}
