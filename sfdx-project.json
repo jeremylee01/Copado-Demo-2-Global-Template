@@ -1,6 +1,18 @@
 {
   "packageDirectories": [
     {
+      "path": "sales",
+      "default": false
+    }
+    {
+      "path": "service",
+      "default": false
+    }
+    {
+      "path": "marketing",
+      "default": false
+    }
+    {
       "path": "global-template",
       "default": true
     }
