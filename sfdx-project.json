@@ -29,6 +29,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "./marketing",
+            "package": "Marketing",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "Global Template",
@@ -37,6 +44,7 @@
     "sourceApiVersion": "57.0",
     "packageAliases": {
         "Sales": "0Ho8d000000Kz4qCAC",
-        "Service": "0Ho8d000000Kz4vCAC"
+        "Service": "0Ho8d000000Kz4vCAC",
+        "Marketing": "0Ho8d000000Kz50CAC"
     }
 }
